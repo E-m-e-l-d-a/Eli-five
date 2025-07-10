@@ -1,0 +1,43 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependency directories
+node_modules
+
+# Build output
+dist
+dist-ssr
+
+# Local environment files
+.env
+.env.*.local
+*.local
+
+# Vite cache (optional)
+.vite
+
+# Editor settings
+.vscode/*
+!.vscode/extensions.json
+.idea
+
+# System files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+
+# Misc IDE/Windows files
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+# Optional
+package-lock.json
